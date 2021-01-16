@@ -8,10 +8,12 @@ body {
   margin: 20px;
   font-family: Verdana;
   font-size: 40px;
+  color:rgb(125, 160, 125);
 }
 
 .intro h2 {
   text-align: center;
+  color:rgb(125, 160, 125);
 }
 
 .about hr {
@@ -21,6 +23,25 @@ body {
 .intro img {
   display: block;
   margin: auto;
-  border: 5px solid rgb(125, 160, 125);
+  border: 15px solid rgb(125, 160, 125);
   border-radius: 50%;
+}
+
+.began h4, .epicodus h4, .hobbies h4 {
+  font-size: 28px;
+  color:rgb(107, 67, 22);
+}
+
+.portfolio a {
+  font-size: 20px;
+}
+
+.intro a {
+  display: block;
+  text-align: center;
+  font-size: 40px;
+}
+
+.projects {
+  float: right;
 }
