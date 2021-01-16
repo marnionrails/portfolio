@@ -32,4 +32,4 @@ GPL
 Copyright(c) 2020 Marni Sucher
 
 ## Contact Information
-Marni Sucher [suchermarni@gmail.com]
+Marni Sucher <suchermarni@gmail.com>
