@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 253, 253);
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+.intro h2 {
+  text-align: center;
+}
+
+.about hr {
+  margin-right: 1140px;
+}
