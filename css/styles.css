@@ -3,8 +3,10 @@ body {
   box-sizing: border-box;
 }
 
-h1 {
+.intro h1 {
   text-align: center;
+  margin: 20px;
+  background-color: rgb(125, 160, 125)
 }
 
 .intro h2 {
@@ -18,4 +20,6 @@ h1 {
 .intro img {
   display: block;
   margin: auto;
+  border: 5px solid rgb(125, 160, 125);
+  border-radius: 50%;
 }
