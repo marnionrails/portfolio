@@ -6,7 +6,8 @@ body {
 .intro h1 {
   text-align: center;
   margin: 20px;
-  background-color: rgb(125, 160, 125)
+  font-family: Verdana;
+  font-size: 40px;
 }
 
 .intro h2 {
