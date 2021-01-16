@@ -44,4 +44,11 @@ body {
 
 .projects {
   float: right;
+  background-color: lightpink;
+  border: 1px solid pink;
+  border-radius: 10%;
+}
+
+.projects h3 {
+  text-align: center;
 }
