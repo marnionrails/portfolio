@@ -29,7 +29,7 @@ body {
 
 .began h4, .epicodus h4, .hobbies h4 {
   font-size: 28px;
-  color:rgb(107, 67, 22);
+  color: green;
 }
 
 .portfolio a {
@@ -51,4 +51,10 @@ body {
 
 .projects h3 {
   text-align: center;
+}
+
+
+.epicodus ul, span {
+  color: red;
+  font-weight: bold;
 }
