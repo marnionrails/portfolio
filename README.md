@@ -21,7 +21,8 @@ This webpage is Marni Sucher's portfolio for her HTML/CSS code review at Epicodu
 * Open the portfolio folder on your computer
 * Open index.html in any web browser
 * View Marni's goals and accomplishments
-
+OR 
+* Go directly to the webpage at 
 ## Known Bugs
 
 * None at this time
